@@ -1,0 +1,1 @@
+# Statistical-Analysis-and-Forecasting-of-Solar-Energy
