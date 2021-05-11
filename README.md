@@ -20,7 +20,7 @@ This is forecasting obtained from SARIMA (1,1,1)(1,1,1,52) with a 95% confidence
 
 ## Analysis on different states :
 
-This tables shows the different error rates for each of the 4 locations.
+This tables shows the different error rates for the SARIMA model for each of the 4 locations.
 
 ![](images/errors.png)
 
